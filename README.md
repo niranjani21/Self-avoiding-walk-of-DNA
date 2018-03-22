@@ -6,18 +6,12 @@ The fraction of correct contacts can be calculated for a range of DNA length (bp
 Similarly, the confinement volume as well as the dimension (2 or 3) can be changed. The measures of the confinement can be given by min and max. Through this the effect of confinement volume and the dimension on the nucleus size can be calculated. 
 By simulating the DNA strands for a particular measurement for 10^5 times, this code will cover significant number of random walker conformations.
 
+
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Niranjani** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Dr.R.Murugan, IITM.
