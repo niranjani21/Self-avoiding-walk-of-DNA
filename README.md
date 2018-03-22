@@ -9,9 +9,9 @@ By simulating the DNA strands for a particular measurement for 10^5 times, this 
 
 ## Authors
 
-* **Niranjani** 
+* **Dr. G. Niranjani** 
 
 
 ## Acknowledgments
 
-* Dr.R.Murugan, IITM - The core concept of the random walk was developed by him.
+* **Dr.R.Murugan, IITM** - The core concept of the random walk was developed by him.
